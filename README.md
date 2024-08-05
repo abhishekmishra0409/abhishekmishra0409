@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **MERN , JAVA , JS**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1otoaUYS04CD2pV-zsBt52g8LqxXT1nUC/view](https://drive.google.com/file/d/1otoaUYS04CD2pV-zsBt52g8LqxXT1nUC/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/10jWNvTYWntzX3MpS321vUjKNnjDz2i-L/view?usp=sharing/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
