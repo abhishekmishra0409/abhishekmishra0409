@@ -12,7 +12,7 @@
 
 💬 Ask me about **Node.js, React, Mongodb... or anything [here](https://github.com/abhishekmishra0409/abhishekmishra0409/issues)**
 
-📄 Know about my experiences [here](https://drive.google.com/file/d/1zj7CC1QV0wOWBlWUOdA-K1G15G16Y7rE/view?usp=sharing)**
+📄 Know about my experiences [here](https://drive.google.com/file/d/19r1_IolHkqCuOp64nHSh82X5btLJUquF/view?usp=drive_link)**
 
  </div>
  
