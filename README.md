@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/dcfend16u/image/upload/v1721235233/Personal/xrlcsmv6duaeqlvtogti.png?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://abhishekmishra-0409.web.app/)
+[![MasterHead](https://res.cloudinary.com/dcfend16u/image/upload/v1721235233/Personal/xrlcsmv6duaeqlvtogti.png?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://abmishra.dev/)
 <h1 align="center">Hi 👋, I'm Abhishek Mishra</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/abhishekmishra04/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://abhishekmishra-0409.web.app/" target="_blank">
+  <a href="https://abmishra.dev" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
